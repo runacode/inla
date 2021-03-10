@@ -1,7 +1,7 @@
-<?php $company = "EL CESAR RESTAURANT & BAR";
-$phone = "(978) 794-8169";
-	$address1 = "99 ESSEX ST";
-	$address2 = "LAWRENCE, MA 01840";
+<?php $company = "BRAKE PRO";
+$phone = "(909) 481-4071";
+	$address1 = "8820 ARCHIBALD AVE";
+	$address2 = "RANCHO CUCAMONGA, CA 91730";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
